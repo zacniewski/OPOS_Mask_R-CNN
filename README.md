@@ -6,17 +6,27 @@ Implementacja algorytmu Mask R-CNN
 
 2. Optymalna wersja Pythona to >3.4
 
+## Uruchomienie
+```bash
+python3 starter.py
+```
+
 ## Przykładowe wyniki
-Obraz nr 1
+
+Obraz nr 1  
+
 ![Obraz nr 1](/images/Rozprowadzenie.JPG)
 
-Rezultat
+Rezultat  
+
 ![Rezultat nr 1](/results/9.png)
 
-Obraz nr 2
+Obraz nr 2  
+
 ![Obraz nr 1](/images/pogrzebmarynarski.jpg)
 
-Rezultat
+Rezultat  
+
 ![Rezultat nr 1](/results/8.png)
 
 ## Trenowanie na własnym zbiorze danych
