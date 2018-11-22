@@ -8,7 +8,7 @@ Implementacja algorytmu Mask R-CNN
 
 ## Uruchomienie
 ```bash
-python3 starter.py
+python3 mask_rcnn_starter.py
 ```
 
 ## Przykładowe wyniki
