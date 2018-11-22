@@ -9,4 +9,4 @@ keras>=2.0.8
 opencv-python
 h5py
 imgaug
-IPython[all]
+CUDA 9.0 + cuDNN 7.0.5
