@@ -9,4 +9,6 @@ keras>=2.0.8
 opencv-python
 h5py
 imgaug
-CUDA 9.0 + cuDNN 7.0.5
+
+# Required for GPU acceleration (if using GPU):
+# CUDA 9.0 + cuDNN 7.0.5
